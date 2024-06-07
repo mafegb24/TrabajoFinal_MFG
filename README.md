@@ -1,6 +1,6 @@
 # **MFG SOLUTIONS**
-## ***************************************************
-## **TRABAJO FINAL ALGORITMOS Y PROGRAMACION**
+## ********************************************************
+## **TRABAJO FINAL ALGORITMOS Y PROGRAMACIÓN**
 
 ### Realizado por: **Maria Fernanda Garcia Bautista**
 ### Este proyecto fue desarrollado como parte del curso **Algoritmos y Programación** en el programa **MFG_SOLUTIONS**.
@@ -14,7 +14,7 @@
 ### UDEA-2024
 
 
-![Logo UDEA] (https://github.com/mafegb24/TrabajoFinal_MFG/blob/main/Logos%C3%ADmbolo+Universidad+de+Antioquia+horizontal+%C2%AE-01.png?raw=true)
+![Logo UDEA](https://github.com/mafegb24/TrabajoFinal_MFG/blob/main/Logos%C3%ADmbolo+Universidad+de+Antioquia+horizontal+%C2%AE-01.png?raw=true)
 
 
 
