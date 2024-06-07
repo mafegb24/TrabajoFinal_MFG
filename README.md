@@ -1,15 +1,21 @@
 # **MFG SOLUTIONS**
-## *******************************************
+## ***************************************************
 ## **TRABAJO FINAL ALGORITMOS Y PROGRAMACION**
 
 ### Realizado por: **Maria Fernanda Garcia Bautista**
-#### Este proyecto fue desarrollado como parte del curso **Algoritmos y Programación** en el programa **MFG_SOLUTIONS**.
+### Este proyecto fue desarrollado como parte del curso **Algoritmos y Programación** en el programa **MFG_SOLUTIONS**.
 
-#### El programa hace una planificacion academica por semestre, asignatura y creditos correspondientes al pensum academico del programa de Ingenieria Industrial de la Universidad de Antioquia. 
+### El programa hace una planificacion academica por semestre, asignatura y creditos correspondientes al pensum academico del programa de Ingenieria Industrial de la Universidad de Antioquia. 
 
 ![Logo MFG](https://github.com/mafegb24/TrabajoFinal_MFG/blob/main/2mfg.png?raw=true) 
 
-#### UDEA-2024
+
+
+### UDEA-2024
+
+
+![Logo UDEA] (https://github.com/mafegb24/TrabajoFinal_MFG/blob/main/Logos%C3%ADmbolo+Universidad+de+Antioquia+horizontal+%C2%AE-01.png?raw=true)
+
 
 
 
